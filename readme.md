@@ -1,3 +1,5 @@
+Test notes
+
 ## File Structure
 
 `_posts`: This folder hosts files with our main content/blog for information. Any blog posts are stored here.
